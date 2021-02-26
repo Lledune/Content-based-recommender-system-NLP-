@@ -1,1 +1,3 @@
 # NLP-recommender-system
+
+Recommender system based on textual description of movies. This approach can be used for any kind of textual data, including actor names, movies genres, ... 
